@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit-Das-007
+- 👋 Hi, I’m Rohit 
 - 👀 I’m interested in ui/ux design, machine learning, artificial intelligence
 - 🌱 I’m currently learning python,java script, 
 - 📫 How to reach me - dasrohit.0ff1c14l11@gmail.com
